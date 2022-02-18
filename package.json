@@ -10,6 +10,7 @@
     "stylelint": "^14.0.0"
   },
   "devDependencies": {
+    "npm-check-updates": "*",
     "eslint": "^7.20.0",
     "eslint-config-node": "@latest"
   }
