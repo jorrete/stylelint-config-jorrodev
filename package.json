@@ -3,11 +3,11 @@
   "version": "0.1.1",
   "license": "UNLICENSED",
   "dependencies": {
-    "stylelint-config-recommended": "^3.0.0",
-    "stylelint-scss": "^3.19.0"
+    "stylelint-config-recommended": "^7.0.0",
+    "stylelint-scss": "^4.0.0"
   },
   "peerDependencies": {
-    "stylelint": "^13.10.0"
+    "stylelint": "^14.0.0"
   },
   "devDependencies": {
     "eslint": "^7.20.0",
