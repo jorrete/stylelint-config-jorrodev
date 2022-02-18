@@ -1,0 +1,16 @@
+{
+  "name": "stylelint-config-jorrodev",
+  "version": "0.1.0",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "stylelint-config-recommended": "^3.0.0",
+    "stylelint-scss": "^3.19.0"
+  },
+  "peerDependencies": {
+    "stylelint": "^13.10.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.20.0",
+    "eslint-config-node": "@latest"
+  }
+}
