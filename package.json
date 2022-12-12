@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-jorrodev",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "license": "UNLICENSED",
   "dependencies": {
     "stylelint-config-recommended": "^7.0.0",
